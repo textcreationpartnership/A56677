@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of the Bishop of Chichester to his clergy</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56677</idno>
+            <idno type="STC">Wing P820</idno>
+            <idno type="STC">ESTC R19118</idno>
+            <idno type="EEBO-CITATION">13053169</idno>
+            <idno type="OCLC">ocm 13053169</idno>
+            <idno type="VID">96970</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96970)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 395:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of the Bishop of Chichester to his clergy</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Symon Cicestrensis.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Pastoral letters and charges.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96970:1" rendition="simple:additions"/>
+            <p>A LETTER OF THE Biſhop of CHICHESTER, TO HIS CLERGY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul's</hi> Church-Yard. 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:96970:2"/>
+            <pb n="1" facs="tcp:96970:2"/>
+            <head>A LETTER OF THE Biſhop of CHICHESTER, TO HIS CLERGY.</head>
+            <opener>
+               <salute>My Dear Brethren,</salute>
+            </opener>
+            <p>I Send you this, in purſuance of His Majeſty's Letter, that was ſent to me by My Lord Biſhop of <hi>London,</hi> which, according to my duty, I have not long ago tranſmited to all you the Clergy of my Dioceſe. I do bleſs God that has put into His Majeſty's Heart ſuch a Zeal for this our Church, and ſuch a ſenſe of the ways that are moſt proper for preſerving it, and which by the Bleſſing of God will certainly do it. For if the Paſtors and Guides of the Church of all Ranks, do adorn their Profeſſion with a good Converſation, and apply themſelves ſeriouſly and zealou<g ref="char:EOLhyphen"/>ſly to the Duties of their Function, the Church will both ſhine and proſper in ſpite of all the oppoſition that can be made to it from its enemies. The leaſt blemiſh in a Church man's Life, as it is ſearched out and obſerved by all men, ſo it not only leſſens the force of all his other La<g ref="char:EOLhyphen"/>bours; but it weakens very much the credit of the whole
+<pb n="2" facs="tcp:96970:3"/>Church, which is often judged by the Errors and Diſorders of every one of its Paſtors.</p>
+            <p>Yet it is not enough for men in Holy Orders to be free from thoſe crying ſins which are odious to all Chriſtians, but are to be deteſted out of meaſure in Church-men. It is a monſtrous thing to ſee one of that Holy Profeſſion give himſelf to the exceſſes of Eating and Drinking, or other Senſual Appetites, to be guilty of Injuſtice or Lying, of ungoverned Paſſion or Swearing, of Malice or filthy Avarice. Theſe things ought not to be named but with dete<g ref="char:EOLhyphen"/>ſtation among us. We ought not only to be blameleſs and harmleſs, but to ſhine as lights in the World, and to ſhew in our lives, that to which we exhort our People in our Sermons, being Patterns to the Believers <hi>in Word, in Converſation, in Cha<g ref="char:EOLhyphen"/>rity, in Faith and Purity, and giving attendance to Reading, to Ex<g ref="char:EOLhyphen"/>hortation and to Doctrine; that in ſo doing we may both ſave our ſelves and alſo them that hear us.</hi>
+            </p>
+            <p>Conſider often what a great Account you have to make to God for the Souls committed to your charge.</p>
+            <p>Remember and read over frequently the Vows that you made to God at your Ordination, and the Charge that was then given you, and examine your ſelves frequently whether you do obſerve theſe or not.</p>
+            <p>Think how Sacred a Truſt that of Souls is, which the Son of God has purchaſed with his own Blood: and how ſeverely he will reckon with you, if through your ill Example, bad Doctrine, or the other neglects of your duty, thoſe Souls periſh, for which he died.</p>
+            <p>Think it not enough barely to read Prayers, or perform other Divine Offices among them: You muſt go often among them to inſtruct, exhort, admoniſh, or reprove them, as there is oc<g ref="char:EOLhyphen"/>caſion for it.</p>
+            <p>You muſt inſtruct the Youth, viſit the Sick, reprove Of<g ref="char:EOLhyphen"/>fenders, and reconcile ſuch Differences as happen at any time to create Quarrels among your People, and all this you muſt do with Zeal and Affection.</p>
+            <p>And in particular, you ought to warn your People of the heavy Judgments of God, which the ſins of the Land give us juſt cauſe to apprehend; and that the rather, ſince God has ſpared us ſo long, whilſt he has viſited ſo many Nations round
+<pb n="3" facs="tcp:96970:3"/>about us in ſo terrible a manner, and has given us ſo great a meaſure of the light of his Goſpel, and ſo long a courſe of Temporal as well as Spiritual Bleſſings.</p>
+            <p>And frequently ſet forth to them the heinouſneſs of ſuch ſins as you find do moſt abound among them, whether they be the crying ones related to in the Acts of Parliament lately ſent you, or others; You ought to repreſent to them the high con<g ref="char:EOLhyphen"/>tempt done to God, when Men make their Bodies, which ought to be Temples for God to dwell in by his Spirit, the members of a Harlot; and the Indignity done their own Natures, when by the exceſſes of Drinking, a Man has changed himſelf into a Beaſt.</p>
+            <p>You ought to ſhew them what a horrible Affront it is to Almighty God to profane his Holy Name by raſh and vain Swearing, and what a dreadful thing it is to ſwear falſly, even in common Diſcourſe, but much more when it is before a Judge.</p>
+            <p>You ought to ſet often before your People the great wicked<g ref="char:EOLhyphen"/>neſs of Lying and Slander, of Falſhood and Injuſtice, and of all Cheating and Oppreſſion, and that in all caſes of wrong done their Neighbours, there is no repentance that is acceptable to God, but that which is accompanied with reſtitution or repara<g ref="char:EOLhyphen"/>tion, as far as the Party can poſſibly make it.</p>
+            <p>You are often to repreſent to your People the indiſpenſable neceſſity of true holineſs, without which no Man can ſee God, and without which, their believing a true Faith, and their be<g ref="char:EOLhyphen"/>ing of a true Church, cannot ſerve them in any ſtead. For we are aſſured from the Word of God, that not only <hi>Idola<g ref="char:EOLhyphen"/>ters, but Fornicators and Adulterers, Thieves, Covetous Perſons, Drunkards, Revilers, and Extortioners cannot enter into the Kingdom of God.</hi>
+            </p>
+            <p>Put them often in mind of the importance of the Word <hi>Reformed Churches,</hi> which imports, that as our Doctrine and Worſhip are by the bleſſing of God <hi>Reformed;</hi> ſo our Lives ought alſo to be <hi>Reformed;</hi> otherwiſe all the advantages that we have of light and truth beyond other Churches, will riſe up in Judgment againſt us, if we do not live ſuitably to them.</p>
+            <p>But above all things ſtudy to poſſeſs your people with a deep ſenſe of the duty that they owe to God their Maker, and to Jeſus Chriſt their Saviour, that ſo they may apply them<g ref="char:EOLhyphen"/>ſelves to the exerciſes. of Devotion in ſecret, to the frequent<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:96970:4"/>the Publick Worſhip, and chiefly to the receiving the Sa<g ref="char:EOLhyphen"/>crament with that ſerious diſpoſition of mind which becomes ſuch Holy Performances, that ſo they may delight in going to<g ref="char:EOLhyphen"/>gether to the Houſe of God.</p>
+            <p>And in order to their doing this aright, infuſe into them a great reverence for the Lord's Day, as a time ſeparated from the com<g ref="char:EOLhyphen"/>mon buſineſs of life, for their attending on the Worſhip of God, and ſuch other Religious Exerciſes as may both increaſe their knowledge and their ſenſe of Divine Matters, and that therefore they ought not to ſatisfie themſelves with going to Church, and aſ<g ref="char:EOLhyphen"/>ſiſting publickly in the Service of God; but that they ſet themſelves more to Prayer on that day, and to the reading of Scriptures, or other good Books, both apart and together in their Families, that ſo they may grow up in Grace, and in the Knowledge of our Lord and Saviour Jeſus Chriſt.</p>
+            <p>Theſe things you muſt open to your People frequently in ſeaſon and out of ſeaſon, both at Church, and from houſe to houſe. And I charge you by all the Authority that I have over you, by the Zeal that you bear to the Church of <hi>England,</hi> and as you deſire to have from your Labours and your People, a Crown of rejoy<g ref="char:EOLhyphen"/>cing in the day of the Lord, and as you bear a due regard both to your own Souls, and to the Souls that are committed to your care, and to that Precious Blood by which they were redeemed, as you deſire to be faithful to your Ordination-Vows, and to have a ſhare in thoſe bleſſed words; <hi>Well done, good and faithful ſervant, enter thou into the joy of thy Lord:</hi> That you will give your ſelves wholly to theſe things, that you will account no la<g ref="char:EOLhyphen"/>bour great in advancing that Work for which our Saviour ſpa<g ref="char:EOLhyphen"/>red not his own life: and that you will purſue all the parts of your Miniſtry with a Zeal ſuitable to the importance of them, that ſo we doing our parts faithfully under the Protection and Fa<g ref="char:EOLhyphen"/>vour of Our Gracious King and Queen, whom God long pre<g ref="char:EOLhyphen"/>ſerve, this Church may recover its firſt Glory, and may ſo ſhine in all thoſe things which can adorn our Holy Profeſſion, that by the Divine Favour and Bleſſing ſhe may ſtill continue in ſafety, and may ſo conquer and gain upon all that depart from her, that all her Children may with one Heart, and one Mouth glorifie the God and Father of our Lord Jeſus Chriſt: who un<g ref="char:EOLhyphen"/>doubtedly will ſucceed and proſper us in all our undertakings; if we earneſtly and conſtantly implore the aſſiſtance of his
+<pb n="5" facs="tcp:96970:4"/>Grace, and apply our ſelves, with ſerious endeavours, to conſider how to make them effectual. In order to which I ſhall end this Letter, with theſe <hi>Three</hi> Directions.</p>
+            <p n="1">I. <hi>Firſt,</hi> That your Obedience to His Majeſty's Letter may be regular and uniform, I deſire you to obſerve this Method. On the <hi>Sunday ſevennight</hi> before the Aſſizes, read the Act of Parliament againſt PERJURY and preach upon that Subject. On the <hi>Second Sunday</hi> in <hi>May,</hi> read the Act for the Obſervation of the LORD's DAY, and exhort your Pariſhioners to the religious Obſervation thereof. On the <hi>Firſt Sunday</hi> in <hi>Advent</hi> read the Act againſt DRUNKEN<g ref="char:EOLhyphen"/>NESS, and likewiſe preach againſt that Vice. On the <hi>Second Sunday</hi> in <hi>Lent</hi> the Act againſt BLASPHEMY, <hi>Swearing</hi> and <hi>Curſing;</hi> and preach on that Subject. On the <hi>Fourth Sunday</hi> in <hi>Lent,</hi> againſt the Sins of ADULTERY and FORNICATION. It is intended that <hi>Homilies</hi> be provided for all theſe days: But till they be, let every one furniſh himſelf with Sermons upon theſe Heads, and continue this courſe from year to year.</p>
+            <p n="2">II. <hi>Secondly,</hi> That <hi>Confirmation</hi> may be adminiſtred to Edi<g ref="char:EOLhyphen"/>fication, and all diſorders and crowds may then be avoided, I deſire you to take Notice that I will Confirm none, but ſuch whoſe Names ſhall be delivered to me by you, the Miniſters of the ſeveral Pariſhes from whence they come: with a Certificate under your Hands that you have ex<g ref="char:EOLhyphen"/>amined them, and find them not only able to repeat the Words of the <hi>Catechiſm,</hi> but alſo ſenſible of the ſolemn Vow that was made in their Name at their Baptiſm, which they are deſirous to renew themſelves. Let it be your endeavour therefore to diſpoſe the young People of your Pariſh unto this. And for the better performance of it, I will confirm as frequently as I am able, not only in the Cathedral at <hi>Eaſter</hi> and ſuch ſolemn times: but alſo when I go to any Church in my Dioceſs, where thoſe in the Neighbourhood, who are fitted to be confirmed, may reſort to me.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:96970:5"/>
+III. <hi>Thirdly,</hi> I deſire you to ſignifie unto ſuch as you find deſirous to be put into Holy Orders, that I expect they come to me a <hi>Month</hi> at leaſt before <hi>Ordination-Sunday:</hi> that I may have ſufficient time not only to try and examine them, but alſo to give notice of their intentions to the Pariſh where they live; that if they have any impediment to object why they ſhould not be admitted, I may have timely Information of it. For there cannot be too much care taken, that the Flock of Chriſt be not committed into the Hands of bad Men; but ſuch may be ſet over them as will <hi>watch for their Souls: fleeing youthful luſts, and follow<g ref="char:EOLhyphen"/>ing Righteouſneſs, Faith, Charity, Peace, with them that call on the Lord out of a pure heart.</hi> Unto whoſe Grace and Bleſſing I do moſt earneſtly commend you and your Labours.</p>
+            <closer>
+               <dateline>
+                  <date>May 9. 1690.</date>
+               </dateline>
+               <signed>SYMON CICESTRENSIS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
